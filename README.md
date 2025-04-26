@@ -5,7 +5,7 @@ I'm a Full Stack Engineer working primarily with React, JS/TS, Node, Java, and S
 
 When I'm not coding, you'll find me leveling up my knowledge, collaborating with other devs, or working on cool new ideas. 🛠️
 
-Feel free to explore my projects, connect, or just say hi!
+Feel free to explore my projects, connect, or just say hi! 👋
 
 Let's build something amazing together. 👨‍💻
 
