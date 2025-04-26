@@ -1,12 +1,14 @@
 ## Hi, I'm Jasneet, a Full Stack Engineer. Welcome to my GitHub!
 
+
 I'm a Full Stack Engineer working primarily with React, JS/TS, Node, Java, and Springboot.
 
-When I'm not coding, you'll find me leveling up my knowledge, collaborating with other devs, or working on cool new ideas. ✨
+When I'm not coding, you'll find me leveling up my knowledge, collaborating with other devs, or working on cool new ideas. 🛠️
 
 Feel free to explore my projects, connect, or just say hi!
 
 Let's build something amazing together. 👨‍💻
+
 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
