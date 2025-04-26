@@ -5,7 +5,7 @@ I'm a Full Stack Engineer working primarily with React, JS/TS, Node, Java, Sprin
 I'm not currently searching for work, but feel free to reach out on LinkedIn or email.
 
 
-![](https://komarev.com/ghpvc/?username=JaeGif)
+![](https://komarev.com/ghpvc/?username=jasneetcodes)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -34,6 +34,6 @@ I'm not currently searching for work, but feel free to reach out on LinkedIn or 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeGif&layout=compact)](https://github.com/JaeGif/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasneetcodes&layout=compact)](https://github.com/jasneetcodes/github-readme-stats)
 
 
