@@ -1,11 +1,13 @@
 ## Hi, I'm Jasneet, a Full Stack Engineer. Welcome to my GitHub!
 
-I'm a Full Stack Engineer working primarily with React, JS/TS, Node, Java, Springboot, and WebSockets.
+I'm a Full Stack Engineer working primarily with React, JS/TS, Node, Java, and Springboot.
 
-I'm not currently searching for work, but feel free to reach out on LinkedIn or email.
+When I'm not coding, you'll find me leveling up my knowledge, collaborating with other devs, or working on cool new ideas. ✨
 
+Feel free to explore my projects, connect, or just say hi!
 
-![](https://komarev.com/ghpvc/?username=jasneetcodes)
+Let's build something amazing together. 👨‍💻
+
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
