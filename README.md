@@ -1,3 +1,21 @@
+<p align="center">
+  <img src="./assets/neon-pulse-banner.svg" alt="{{name}} — {{tagline}}" width="100%" />
+</p>
+
+### whoami
+
+{{I'm a software engineer based in Calgary, Canada. I work on production software, from healthcare workflows and database performance to AI-powered applications.
+
+Currently developing software with **My Fertility Labs** and the **University of Calgary**, while completing an **MEng in Software Engineering (expected April 2027)**.}}
+
+### currently
+
+- {{currently_one}}
+- {{currently_two}}
+- {{currently_three}}
+
+— [{{website}}]({{website_url}}) · [@{{twitter}}](https://twitter.com/{{twitter}})
+
 # Jasneet Singh
 
 **Software Engineer | Backend & Full-Stack Systems | Applied AI**
