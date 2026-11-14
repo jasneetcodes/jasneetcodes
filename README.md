@@ -1,43 +1,42 @@
-## Hi, I'm Jasneet, a Full Stack Engineer. Welcome to my GitHub!
+# Jasneet Singh
 
+**Software Engineer | Backend & Full-Stack Systems | Applied AI**
 
-I'm a Full Stack Engineer working primarily with React, JS/TS, Node, Java, and Springboot.
+I'm a software engineer based in Calgary, Canada. I work on production software, from healthcare workflows and database performance to AI-powered applications.
 
-When I'm not coding, you'll find me leveling up my knowledge, collaborating with other devs, or working on cool new ideas. 🛠️
+Currently developing software with **My Fertility Labs** and the **University of Calgary**, while completing an **MEng in Software Engineering (expected April 2027)**.
 
-Feel free to explore my projects, connect, or just say hi! 👋
+[LinkedIn](https://www.linkedin.com/in/jasneetcodes/) · [Website](https://jasneetcodes.dev)
 
-Let's build something amazing together. 👨‍💻
+## Engineering work
 
+- **University of Calgary — Graduate Digital Solutions Developer:** Built event-driven Firestore cache invalidation for a timetable application used by 100+ daily users, reducing database reads from approximately **1.87 million to 57,000 per day**. Also built an isolated Firebase staging environment and worked directly with stakeholders on scheduling and resource workflows.
+- **My Fertility Labs — Full Stack Software Developer:** Build and maintain **React/Redux and ASP.NET Core** features for a live healthcare platform. Automated lab requisition preparation from roughly **one hour to under one minute per patient**, developed an in-platform fax assignment workflow that avoids downloading protected health information, and automated reporting across business systems.
+- **Sterling — AI Engineer, Tech Start UCalgary:** Built the backend for a financial AI assistant with **LLM tool calling and retrieval-augmented generation**. Designed hybrid retrieval using **SQL for numeric questions** and **pgvector for descriptive search**, with 18 typed tools for financial workflows.
+- **Evans Digital Design — Full Stack Developer:** Optimized Spring Boot APIs and SQL queries/indexes, reducing database response time from **100 ms to 60 ms**.
 
+Some of my professional work is in organization-owned systems, so the public repositories below represent a separate sample of my code.
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-<!---![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+## Selected public projects
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+| Project | What it demonstrates |
+| --- | --- |
+| [FitTrackerML](https://github.com/jasneetcodes/FitTrackerML) | Python/scikit-learn pipeline for wearable-data calorie prediction, including preprocessing and regression model comparisons. |
+| [Multithreaded Spring Application](https://github.com/jasneetcodes/Multithreaded-Spring-Application) | Java/Spring and Angular application using multithreading for translation, time-zone messages, and currency features. |
+| [Multimodal Garbage Classification](https://github.com/jasneetcodes/Garbage-Classification-Model) | PyTorch course project combining image and text features for four-category classification. |
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-<!--![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) -->
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-<!--![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)-->
-<!--![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)-->
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+## Technologies I work with
 
+- **Languages:** Python, C#, TypeScript, JavaScript, Java, SQL
+- **Backend & web:** ASP.NET Core, React/Redux, Spring Boot, Node.js/Express, FastAPI, REST APIs
+- **Data & AI:** PostgreSQL, SQL Server, Firebase/Firestore, pgvector, LLM tool calling, RAG, scikit-learn, PyTorch
+- **Tools & infrastructure:** Docker, AWS, Firebase, Supabase, Git
 
-<!-- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)-->
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+## Leadership & community
 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-<!-- ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)-->
+- **Vice President of Technology, UCalgary AI Club:** Support technical infrastructure, developer environments, and junior DevOps contributors for a club with 700+ members.
+- **MEng Software Engineering Student Representative, University of Calgary:** Helped organize an alumni and industry panel with the Program Director.
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasneetcodes&layout=compact)](https://github.com/jasneetcodes/github-readme-stats)
-
-
+**Connect:** [LinkedIn](https://www.linkedin.com/in/jasneetcodes/) · [Personal website](https://jasneetcodes.dev)
