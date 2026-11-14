@@ -14,7 +14,7 @@ Currently developing software with **My Fertility Labs** and the **University of
 - {{currently_two}}
 - {{currently_three}}
 
-— [{{website}}]({{website_url}}) · [@{{twitter}}](https://twitter.com/{{twitter}})
+[LinkedIn](https://www.linkedin.com/in/jasneetcodes/) · [Website](https://jasneetcodes.dev)
 
 # Jasneet Singh
 
@@ -24,7 +24,7 @@ I'm a software engineer based in Calgary, Canada. I work on production software,
 
 Currently developing software with **My Fertility Labs** and the **University of Calgary**, while completing an **MEng in Software Engineering (expected April 2027)**.
 
-[LinkedIn](https://www.linkedin.com/in/jasneetcodes/) · [Website](https://jasneetcodes.dev)
+
 
 ## Engineering work
 
