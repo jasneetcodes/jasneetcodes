@@ -81,11 +81,11 @@
 
   <!-- Headline -->
   <g font-family="'Space Grotesk', 'Neue Haas Grotesk', system-ui, sans-serif">
-    <text x="80" y="180" font-size="76" font-weight="800" fill="#ffffff" letter-spacing="-2">JANE DOE</text>
-    <text x="80" y="180" font-size="76" font-weight="800" fill="url(#np-spectrum)" letter-spacing="-2" filter="url(#np-glow)" opacity="0.8">JANE DOE</text>
+    <text x="80" y="180" font-size="76" font-weight="800" fill="#ffffff" letter-spacing="-2">JASNEET SINGH</text>
+    <text x="80" y="180" font-size="76" font-weight="800" fill="url(#np-spectrum)" letter-spacing="-2" filter="url(#np-glow)" opacity="0.8">JASNEET SINGH</text>
   </g>
 
-  <text x="82" y="214" font-family="'JetBrains Mono', monospace" font-size="13" fill="#00d9ff" letter-spacing="6">FRONTEND · MOTION · WEBGL</text>
+  <text x="82" y="214" font-family="'JetBrains Mono', monospace" font-size="13" fill="#00d9ff" letter-spacing="6">BACKEND · FULL-STACK · APPLIED AI</text>
 
   <!-- Tag chips. All four share one quiet border: four chips cycling three
        neon colours read as a carnival next to a spectrum that is already the
@@ -94,19 +94,19 @@
   <g font-family="'JetBrains Mono', monospace" font-size="11" letter-spacing="2">
     <g transform="translate(80,238)">
       <rect width="86" height="26" rx="13" fill="none" stroke="#4b3a8f" stroke-width="0.8"/>
-      <text x="43" y="17" text-anchor="middle" fill="#c9b8ff">react</text>
+      <text x="43" y="17" text-anchor="middle" fill="#c9b8ff">python</text>
     </g>
     <g transform="translate(176,238)">
       <rect width="86" height="26" rx="13" fill="none" stroke="#4b3a8f" stroke-width="0.8"/>
-      <text x="43" y="17" text-anchor="middle" fill="#c9b8ff">typescript</text>
+      <text x="43" y="17" text-anchor="middle" fill="#c9b8ff">react</text>
     </g>
     <g transform="translate(272,238)">
       <rect width="86" height="26" rx="13" fill="none" stroke="#4b3a8f" stroke-width="0.8"/>
-      <text x="43" y="17" text-anchor="middle" fill="#c9b8ff">webgl</text>
+      <text x="43" y="17" text-anchor="middle" fill="#c9b8ff">.NET</text>
     </g>
     <g transform="translate(368,238)">
       <rect width="86" height="26" rx="13" fill="none" stroke="#4b3a8f" stroke-width="0.8"/>
-      <text x="43" y="17" text-anchor="middle" fill="#c9b8ff">motion</text>
+      <text x="43" y="17" text-anchor="middle" fill="#c9b8ff">pgvector</text>
     </g>
   </g>
 
@@ -117,12 +117,12 @@
     <circle cx="6" cy="-3" r="3.5" fill="#00d9ff">
       <animate attributeName="opacity" values="0.4;1;0.4" dur="1.4s" repeatCount="indefinite"/>
     </circle>
-    <text x="20" y="0">ONE FILE · NO SERVICES · NOTHING TO RATE-LIMIT</text>
+    <text x="20" y="0">BUILDING SYSTEMS · HEALTHCARE · APPLIED AI</text>
   </g>
 
   <!-- Top corner mark -->
   <g transform="translate(1120,40)" font-family="'JetBrains Mono', monospace" font-size="9" letter-spacing="3" fill="#7c5cff" text-anchor="end">
-    <text x="-22" y="0">N° MMXXVI / PULSE.04</text>
+    <text x="-22" y="0">JASNEETCODES / 2026</text>
     <line x1="-14" y1="-4" x2="0" y2="-4" stroke="#7c5cff" stroke-width="0.5"/>
   </g>
 </svg>
