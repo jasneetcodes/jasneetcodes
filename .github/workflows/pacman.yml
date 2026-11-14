@@ -20,7 +20,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: jasneetcodes
-          theme: github
+          theme: github-dark
           output: dist/pacman-contribution-graph.svg
 
       - name: push to output branch
