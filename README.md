@@ -33,17 +33,17 @@ Some of my professional work is in organization-owned systems, so the public rep
 - **Tools & infrastructure:** Docker, AWS, Firebase, Supabase, Git
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/{{username}}/{{username}}/output/pacman-contribution-graph.svg" alt="pacman contribution graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/jasneetcodes/jasneetcodes/output/pacman-contribution-graph.svg" alt="pacman contribution graph" width="100%" />
 </p>
 
 <p align="center">
-  <strong>{{Jasneet}}</strong> · <em>{{Between crud monkey and applied AI}}</em>
+  <strong>Jasneet</strong> · <em>Between crud monkey and applied AI</em>
 </p>
 
 <p align="center">
   <code>HIGH SCORE · {{commit_count}}</code> ·
   <code>STREAK · {{streak_days}}d</code> ·
-  <code>STAGE · {{Full stack Dev @ MyFertilty Labs}}</code>
+  <code>STAGE · Full stack Dev @ MyFertilty Labs</code>
 </p>
 
 ---
