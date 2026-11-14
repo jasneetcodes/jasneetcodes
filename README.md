@@ -52,7 +52,7 @@ Some of my professional work is in organization-owned systems, so the public rep
 
 {{currently_paragraph}}
 
-[{{website}}]({{jasneetcodes.dev}}) · [LinkedIn](https://www.linkedin.com/in/jasneetcodes/)
+[{website}]({jasneetcodes.dev} · [LinkedIn](https://www.linkedin.com/in/jasneetcodes/)
 ---
 
 **Connect:** [LinkedIn](https://www.linkedin.com/in/jasneetcodes/) · [Personal website](https://jasneetcodes.dev)
