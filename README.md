@@ -1,6 +1,38 @@
-<p align="center">
-  <img src="./.assets/neon-pulse-banner.svg" alt="Jasneet Singh — Backend, Full-Stack and Applied AI Software Engineer" width="100%" />
-</p>
+<img src="https://raw.githubusercontent.com/jasneetcodes/jasneetcodes/main/header.svg" width="100%" alt="Sleek Hero">
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/jasneetcodes/jasneetcodes/main/about.svg" width="100%" alt="Sleek About">
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/jasneetcodes/jasneetcodes/main/skills.svg" width="100%" alt="Sleek Stack">
+
+<br/>
+
+<img src="http://localhost:8788/api/render/sleek-github-stats?u=jasneetcodes&bg=0d0d10&fg=f7f7fb&accent=2e2a85&muted=a5a5b3" width="100%" alt="Sleek GitHub">
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/jasneetcodes/jasneetcodes/main/footer.svg" width="100%" alt="Sleek Wave">
+
+
+
+### whoami
+
+{{I'm a software engineer based in Calgary, Canada. I work on production software, from healthcare workflows and database performance to AI-powered applications.
+
+Currently developing software with **My Fertility Labs** and the **University of Calgary**, while completing an **MEng in Software Engineering (expected April 2027)**.}}
+
+### currently
+
+- {{currently_one}}
+- {{currently_two}}
+- {{currently_three}}
+
+[LinkedIn](https://www.linkedin.com/in/jasneetcodes/) · [Website](https://jasneetcodes.dev)
+
+# Jasneet Singh
 
 **Software Engineer | Backend & Full-Stack Systems | Applied AI**
 
