@@ -1,22 +1,6 @@
 <p align="center">
-  <img src="./assets/neon-pulse-banner.svg" alt="{{name}} — {{tagline}}" width="100%" />
+  <img src="./.assets/neon-pulse-banner.svg" alt="Jasneet Singh — Backend, Full-Stack and Applied AI Software Engineer" width="100%" />
 </p>
-
-### whoami
-
-{{I'm a software engineer based in Calgary, Canada. I work on production software, from healthcare workflows and database performance to AI-powered applications.
-
-Currently developing software with **My Fertility Labs** and the **University of Calgary**, while completing an **MEng in Software Engineering (expected April 2027)**.}}
-
-### currently
-
-- {{currently_one}}
-- {{currently_two}}
-- {{currently_three}}
-
-[LinkedIn](https://www.linkedin.com/in/jasneetcodes/) · [Website](https://jasneetcodes.dev)
-
-# Jasneet Singh
 
 **Software Engineer | Backend & Full-Stack Systems | Applied AI**
 
@@ -68,5 +52,3 @@ Some of my professional work is in organization-owned systems, so the public rep
 ### currently
 
 I’m building React/.NET features for a live digital health platform and improving scheduling and data infrastructure at the University of Calgary. Outside of work, I’m finishing my MEng in Software Engineering, exploring practical applications of AI, and leading technical infrastructure work for the UCalgary AI Club.
-
-[Personal website](https://jasneetcodes.dev) · [GitHub activity](https://github.com/jasneetcodes?tab=overview) · [LinkedIn](https://www.linkedin.com/in/jasneetcodes/)
