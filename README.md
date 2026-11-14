@@ -32,11 +32,27 @@ Some of my professional work is in organization-owned systems, so the public rep
 - **Data & AI:** PostgreSQL, SQL Server, Firebase/Firestore, pgvector, LLM tool calling, RAG, scikit-learn, PyTorch
 - **Tools & infrastructure:** Docker, AWS, Firebase, Supabase, Git
 
-## Leadership & community
+<p align="center">
+  <img src="https://raw.githubusercontent.com/{{username}}/{{username}}/output/pacman-contribution-graph.svg" alt="pacman contribution graph" width="100%" />
+</p>
 
-- **Vice President of Technology, UCalgary AI Club:** Support technical infrastructure, developer environments, and junior DevOps contributors for a club with 700+ members.
-- **MEng Software Engineering Student Representative, University of Calgary:** Helped organize an alumni and industry panel with the Program Director.
+<p align="center">
+  <strong>{{Jasneet}}</strong> · <em>{{Between crud monkey and applied AI}}</em>
+</p>
 
+<p align="center">
+  <code>HIGH SCORE · {{commit_count}}</code> ·
+  <code>STREAK · {{streak_days}}d</code> ·
+  <code>STAGE · {{Full stack Dev @ MyFertilty Labs}}</code>
+</p>
+
+---
+
+### currently
+
+{{currently_paragraph}}
+
+[{{website}}]({{jasneetcodes.dev}}) · [LinkedIn](https://www.linkedin.com/in/jasneetcodes/)
 ---
 
 **Connect:** [LinkedIn](https://www.linkedin.com/in/jasneetcodes/) · [Personal website](https://jasneetcodes.dev)
