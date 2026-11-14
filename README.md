@@ -41,18 +41,14 @@ Some of my professional work is in organization-owned systems, so the public rep
 </p>
 
 <p align="center">
-  <code>HIGH SCORE · {{commit_count}}</code> ·
-  <code>STREAK · {{streak_days}}d</code> ·
-  <code>STAGE · Full stack Dev @ MyFertilty Labs</code>
+  <code>HIGH SCORE · 97% FEWER DAILY DATABASE READS</code> ·
+  <code>STAGE · FULL-STACK DEV @ MY FERTILITY LABS</code>
 </p>
 
 ---
 
 ### currently
 
-{{currently_paragraph}}
+I’m building React/.NET features for a live digital health platform and improving scheduling and data infrastructure at the University of Calgary. Outside of work, I’m finishing my MEng in Software Engineering, exploring practical applications of AI, and leading technical infrastructure work for the UCalgary AI Club.
 
-[{website}]({jasneetcodes.dev} · [LinkedIn](https://www.linkedin.com/in/jasneetcodes/)
----
-
-**Connect:** [LinkedIn](https://www.linkedin.com/in/jasneetcodes/) · [Personal website](https://jasneetcodes.dev)
+[Personal website](https://jasneetcodes.dev) · [GitHub activity](https://github.com/jasneetcodes?tab=overview) · [LinkedIn](https://www.linkedin.com/in/jasneetcodes/)
