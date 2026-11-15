@@ -1,86 +1,53 @@
-<img src="https://raw.githubusercontent.com/jasneetcodes/jasneetcodes/main/header.svg" width="100%" alt="Sleek Hero">
+# Jasneet Singh
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/jasneetcodes/jasneetcodes/main/about.svg" width="100%" alt="Sleek About">
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/jasneetcodes/jasneetcodes/main/skills.svg" width="100%" alt="Sleek Stack">
-
-<br/>
-
-<img src="http://localhost:8788/api/render/sleek-github-stats?u=jasneetcodes&bg=0d0d10&fg=f7f7fb&accent=2e2a85&muted=a5a5b3" width="100%" alt="Sleek GitHub">
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/jasneetcodes/jasneetcodes/main/footer.svg" width="100%" alt="Sleek Wave">
-
-
-
-### whoami
-
-{{I'm a software engineer based in Calgary, Canada. I work on production software, from healthcare workflows and database performance to AI-powered applications.
-
-Currently developing software with **My Fertility Labs** and the **University of Calgary**, while completing an **MEng in Software Engineering (expected April 2027)**.}}
-
-### currently
-
-- {{currently_one}}
-- {{currently_two}}
-- {{currently_three}}
+**Software Engineer | Full-Stack, AI & Machine Learning**
 
 [LinkedIn](https://www.linkedin.com/in/jasneetcodes/) · [Website](https://jasneetcodes.dev)
 
-# Jasneet Singh
+## `currently`
 
-**Software Engineer | Backend & Full-Stack Systems | Applied AI**
+- Building production software in digital health @ My Fertility Labs
+- Transforming manual workflows into AI automated systems @ University of Calgary
+- Developing AI systems with RAG, LLMs & machine learning
+- MEng Software Engineering @ University of Calgary '27
 
-I'm a software engineer based in Calgary, Canada. I work on production software, from healthcare workflows and database performance to AI-powered applications.
+## `stack`
 
-Currently developing software with **My Fertility Labs** and the **University of Calgary**, while completing an **MEng in Software Engineering (expected April 2027)**.
-
-
-
-## Engineering work
-
-- **University of Calgary — Graduate Digital Solutions Developer:** Built event-driven Firestore cache invalidation for a timetable application used by 100+ daily users, reducing database reads from approximately **1.87 million to 57,000 per day**. Also built an isolated Firebase staging environment and worked directly with stakeholders on scheduling and resource workflows.
-- **My Fertility Labs — Full Stack Software Developer:** Build and maintain **React/Redux and ASP.NET Core** features for a live healthcare platform. Automated lab requisition preparation from roughly **one hour to under one minute per patient**, developed an in-platform fax assignment workflow that avoids downloading protected health information, and automated reporting across business systems.
-- **Sterling — AI Engineer, Tech Start UCalgary:** Built the backend for a financial AI assistant with **LLM tool calling and retrieval-augmented generation**. Designed hybrid retrieval using **SQL for numeric questions** and **pgvector for descriptive search**, with 18 typed tools for financial workflows.
-- **Evans Digital Design — Full Stack Developer:** Optimized Spring Boot APIs and SQL queries/indexes, reducing database response time from **100 ms to 60 ms**.
-
-Some of my professional work is in organization-owned systems, so the public repositories below represent a separate sample of my code.
-
-## Selected public projects
-
-| Project | What it demonstrates |
+| Area | Technologies |
 | --- | --- |
-| [FitTrackerML](https://github.com/jasneetcodes/FitTrackerML) | Python/scikit-learn pipeline for wearable-data calorie prediction, including preprocessing and regression model comparisons. |
-| [Multithreaded Spring Application](https://github.com/jasneetcodes/Multithreaded-Spring-Application) | Java/Spring and Angular application using multithreading for translation, time-zone messages, and currency features. |
-| [Multimodal Garbage Classification](https://github.com/jasneetcodes/Garbage-Classification-Model) | PyTorch course project combining image and text features for four-category classification. |
+| Languages | ![JavaScript](https://img.shields.io/badge/JavaScript-181B20?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/Python-181B20?style=flat-square&logo=python&logoColor=67B7EB) ![C#](./assets/badges/csharp.svg) ![Java](https://img.shields.io/badge/Java-181B20?style=flat-square&logo=openjdk&logoColor=ED8B00) |
+| Web & backend | ![React](https://img.shields.io/badge/React-181B20?style=flat-square&logo=react&logoColor=61DAFB) ![.NET](https://img.shields.io/badge/.NET-181B20?style=flat-square&logo=dotnet&logoColor=white) ![Express](https://img.shields.io/badge/Express-181B20?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-181B20?style=flat-square&logo=fastapi&logoColor=00C7A0) |
+| Data & ML | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-181B20?style=flat-square&logo=postgresql&logoColor=67B7EB) ![PyTorch](https://img.shields.io/badge/PyTorch-181B20?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![scikit-learn](https://img.shields.io/badge/scikit--learn-181B20?style=flat-square&logo=scikitlearn&logoColor=F7931E) |
+| Infrastructure | ![AWS](./assets/badges/aws.svg) ![Docker](https://img.shields.io/badge/Docker-181B20?style=flat-square&logo=docker&logoColor=2496ED) |
 
-## Technologies I work with
+## `projects`
 
-- **Languages:** Python, C#, TypeScript, JavaScript, Java, SQL
-- **Backend & web:** ASP.NET Core, React/Redux, Spring Boot, Node.js/Express, FastAPI, REST APIs
-- **Data & AI:** PostgreSQL, SQL Server, Firebase/Firestore, pgvector, LLM tool calling, RAG, scikit-learn, PyTorch
-- **Tools & infrastructure:** Docker, AWS, Firebase, Supabase, Git
+<details>
+<summary><strong>FitTrackerML</strong> · <code>Python · scikit-learn</code></summary>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jasneetcodes/jasneetcodes/output/pacman-contribution-graph.svg" alt="pacman contribution graph" width="100%" />
-</p>
+A machine learning pipeline for predicting calorie expenditure from wearable data, including preprocessing and regression model comparisons.
 
-<p align="center">
-  <strong>Jasneet</strong> · <em>Between crud monkey and applied AI</em>
-</p>
+**Stack:** Python, scikit-learn
 
-<p align="center">
-  <code>HIGH SCORE · 97% FEWER DAILY DATABASE READS</code> ·
-  <code>STAGE · FULL-STACK DEV @ MY FERTILITY LABS</code>
-</p>
+**Repository:** [jasneetcodes/FitTrackerML](https://github.com/jasneetcodes/FitTrackerML)
 
----
+</details>
 
-### currently
+<details>
+<summary><strong>Garbage Classification Model</strong> · <code>Python · PyTorch</code></summary>
 
-I’m building React/.NET features for a live digital health platform and improving scheduling and data infrastructure at the University of Calgary. Outside of work, I’m finishing my MEng in Software Engineering, exploring practical applications of AI, and leading technical infrastructure work for the UCalgary AI Club.
+A multimodal course project combining image and text features to classify waste into four categories.
+
+**Stack:** Python, PyTorch
+
+**Repository:** [jasneetcodes/Garbage-Classification-Model](https://github.com/jasneetcodes/Garbage-Classification-Model)
+
+</details>
+
+## `activity`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jasneetcodes/jasneetcodes/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jasneetcodes/jasneetcodes/output/pacman-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/jasneetcodes/jasneetcodes/output/pacman-contribution-graph.svg" alt="Pac-Man moving through Jasneet Singh's GitHub contribution graph" width="100%">
+</picture>
